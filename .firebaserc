@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "se-a11",
+    "a11": "se-a11"
+  },
+  "targets": {},
+  "etags": {}
+}
