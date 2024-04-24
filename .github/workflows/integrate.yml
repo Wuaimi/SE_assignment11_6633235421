@@ -3,6 +3,10 @@ name: Node Continuous Integration
 on:
   pull_request:
     branches: [ main ]
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3f7db8e43df1dd9c54f84b329c04eeeb03764fd5
 
 jobs:
   test_pull_request:
